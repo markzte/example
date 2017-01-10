@@ -5,7 +5,7 @@
 	<artifactId>_example-kafka</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>example-kafka</name>
+	<name>example-kafka2</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
